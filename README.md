@@ -19,5 +19,6 @@ Watch the video here: https://www.youtube.com/watch?v=p6Ipayo1e_0
 
 🛒 Breadboard: http://educ8s.tv/part/MiniBreadboard
 
+🛒 Wires: http://educ8s.tv/part/Wires
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
