@@ -2,7 +2,7 @@
 This project creates a simple GUI on a Rapberry Pi to control an LED.
 
 <p align="center">
-  <img src="preview.jpg" alt="Running Sketch" width="640">
+  <img src="preview.png" alt="Running Sketch" width="640">
 </p>
 
 Watch the video here: https://www.youtube.com/watch?v=p6Ipayo1e_0
