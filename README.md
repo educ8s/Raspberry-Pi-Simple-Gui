@@ -7,6 +7,8 @@ This project creates a simple GUI on a Rapberry Pi to control an LED.
 
 Watch the video here: https://www.youtube.com/watch?v=p6Ipayo1e_0
 
+#Parts you need
+
 🛒 Raspberry Pi 3B+: http://educ8s.tv/part/Raspberry3
 
 🛒 Raspberry Pi 4: http://educ8s.tv/part/Raspberry4
